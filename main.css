@@ -1,0 +1,27 @@
+* {
+    font-family: 'Neucha', cursive;
+    /* font-family: 'Reem Kufi Ink', sans-serif; */
+}
+
+header {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+header h1 {
+    padding-top: 30vh;
+}
+
+#aboutMe {
+    background-color: rgb(213, 251, 251);
+    font-size: larger;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
